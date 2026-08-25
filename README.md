@@ -114,5 +114,4 @@ Puis ouvrir : `http://<IP de la machine>:8080`
 ---
 
 <div align="center">
-2025 — 2026 · Groupe 8 · CIEL 1 · Campus St Félix-La Salle, Nantes
 </div>
